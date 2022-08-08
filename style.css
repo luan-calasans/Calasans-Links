@@ -74,11 +74,11 @@ ul li a:hover {
 }
 
 ul li #return:hover{
-  background: #45db18;
+  background-color: #45db18;
 }
 
 ul li #return{
-  background: #38a51f;
+  background-color: #38a51f;
 }
 
 footer {

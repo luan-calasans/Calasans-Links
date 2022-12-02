@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69552520/205199754-7bd1e889-6992-41b7-9f46-5c2e8a2d9724.png" width="350px">
+  <img src="https://user-images.githubusercontent.com/69552520/205397870-3703bd2e-133c-49be-88a1-e1adc01fd32d.jpeg" width="350px">
   <h1>Calasans Links</h1>
   <p>Website in instagram bio with all my social networks.</p>
 </p>
